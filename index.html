@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html class="" lang="en">
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Sucursales - Caja Los Andes</title>
+    <link rel="stylesheet" href="src/main.css">
+</head>
+
+<body>
+
+
+    <div class="overlay"></div>
+    <section class="cabecera">
+        <h2>Sucursales</h2>
+        <h6>Encuentra tu sucursal más cercana en nuestra red de atención.</h6>
+    </section>
+
+    <section>
+
+        <div class="content-tabs">
+            <ul class="tabs" style="display:none">
+                <li class="tab-link " data-tab="tab-1"><i class="icon-mapa"></i> Mapa</li>
+                <li class="tab-link current" data-tab="tab-2"><i class="icon-lista"></i> Lista</li>
+            </ul>
+            <div class="content-select">
+                <article>
+                    <label for="region_id">Encuentra tu región</label>
+                    <select name="region_id" class="select-value" onchange="get_ciudades()">
+                        <option class="" disabled>Región</option>
+                        <option value="1">Tarapacá</option>
+                        <option value="2">Antofagasta</option>
+                        <option value="3">Atacama</option>
+                        <option value="4">Coquimbo</option>
+                        <option value="5">Valparaíso</option>
+                        <option value="6">O'Higgins</option>
+                        <option value="7">Maule</option>
+                        <option value="8">Biobío</option>
+                        <option value="9">Araucanía</option>
+                        <option value="10">Los Lagos</option>
+                        <option value="11">Aysén</option>
+                        <option value="12">Magallanes</option>
+                        <option value="13">Metropolitana</option>
+                        <option value="14">Los Ríos</option>
+                        <option value="15">Arica y Parinacota</option>
+                    </select>
+                    <i></i>
+                </article>
+                <article>
+                    <label for="city_id">Encuentra tu ciudad</label>
+                    <select name="city_id" class="select-value" onchange="get_comunas()">
+                        <option class="dropy__header"  selected="selected">Todas</option>
+                    </select>
+                    <i></i>
+                </article>
+                <!-- <article>
+                    <label for="commune_id">Encuentra tu comuna</label>
+                    <select name="commune_id" class="select-value" onchange="get_locals()">
+                        <option class="dropy__header" >Todas</option>
+                    </select>
+                    <i></i>
+                </article> -->
+               
+            </div>
+            <section>
+                <h6><b>Horario de atención:</b> Lunes a Jueves de 09:00 a 17:00 hrs. - Viernes de 09:00 a 16:00 hrs.</h6>
+            </section>
+            <div id="tab-1" class="tab-content ">
+                <div class="content-mapa" id="google-map"></div>
+            </div>
+            <div id="tab-2" class="tab-content current">
+                <div class="contant-table">
+                    <ul class="header-table">
+                        <li>Sucursal</li>
+                        <li>Dirección</li>
+                        <li>Reservar</li>
+                        
+                    </ul>
+                    <div class="tbody">
+
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </section>
+
+    <style>
+        .tbody {
+            display: table-row-group;
+            width: 100%;
+        }
+    </style>
+
+    <script src="src/jquery.js"></script>
+    <script src="src/app.js"></script>
+</body>
+</html>
