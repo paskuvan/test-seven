@@ -1,0 +1,371 @@
+[{
+    "ciudad": 13,
+    "comunas": [{
+        "id": "16",
+        "comuna": "Iquique"
+    }]
+},
+{
+    "ciudad": 3,
+    "comunas": [{
+        "id": "3",
+        "comuna": "Antofagasta"
+    }]
+},
+{
+    "ciudad": 5,
+    "comunas": [{
+        "id": "5",
+        "comuna": "Calama"
+    }]
+},
+{
+    "ciudad": 9,
+    "comunas": [{
+        "id": "11",
+        "comuna": "Copiap\u00f3"
+    }]
+},
+{
+    "ciudad": 41,
+    "comunas": [{
+        "id": "56",
+        "comuna": "Vallenar"
+    }]
+},
+{
+    "ciudad": 10,
+    "comunas": [{
+        "id": "12",
+        "comuna": "Coquimbo"
+    }]
+},
+{
+    "ciudad": 16,
+    "comunas": [{
+        "id": "23",
+        "comuna": "La Serena"
+    }]
+},
+{
+    "ciudad": 22,
+    "comunas": [{
+        "id": "32",
+        "comuna": "Ovalle"
+    }]
+},
+{
+    "ciudad": 14,
+    "comunas": [{
+        "id": "17",
+        "comuna": "La Calera"
+    }]
+},
+{
+    "ciudad": 18,
+    "comunas": [{
+        "id": "26",
+        "comuna": "Los Andes"
+    }]
+},
+{
+    "ciudad": 28,
+    "comunas": [{
+        "id": "41",
+        "comuna": "Quillota"
+    }]
+},
+{
+    "ciudad": 29,
+    "comunas": [{
+        "id": "42",
+        "comuna": "Quilpu\u00e9"
+    }]
+},
+{
+    "ciudad": 31,
+    "comunas": [{
+        "id": "44",
+        "comuna": "San Antonio"
+    }]
+},
+{
+    "ciudad": 32,
+    "comunas": [{
+        "id": "46",
+        "comuna": "San Felipe"
+    }]
+},
+{
+    "ciudad": 42,
+    "comunas": [{
+        "id": "57",
+        "comuna": "Valpara\u00edso"
+    }]
+},
+{
+    "ciudad": 43,
+    "comunas": [{
+        "id": "58",
+        "comuna": "Villa Alemana"
+    }]
+},
+{
+    "ciudad": 45,
+    "comunas": [{
+        "id": "60",
+        "comuna": "Vi\u00f1a del Mar"
+    }]
+},
+{
+    "ciudad": 30,
+    "comunas": [{
+        "id": "43",
+        "comuna": "Rancagua"
+    }]
+},
+{
+    "ciudad": 33,
+    "comunas": [{
+        "id": "47",
+        "comuna": "San Fernando"
+    }]
+},
+
+{
+    "ciudad": 34,
+    "comunas": [{
+        "id": "49",
+        "comuna": "Santa Cruz"
+    }]
+},
+{
+    "ciudad": 12,
+    "comunas": [{
+        "id": "14",
+        "comuna": "Curic\u00f3"
+    }]
+},
+{
+    "ciudad": 17,
+    "comunas": [{
+        "id": "25",
+        "comuna": "Linares"
+    }]
+},
+{
+    "ciudad": 23,
+    "comunas": [{
+        "id": "33",
+        "comuna": "Parral"
+    }]
+},
+{
+    "ciudad": 37,
+    "comunas": [{
+        "id": "52",
+        "comuna": "Talca"
+    }]
+},
+{
+    "ciudad": 7,
+    "comunas": [{
+        "id": "8",
+        "comuna": "Chill\u00e1n"
+    }]
+},
+{
+    "ciudad": 8,
+    "comunas": [{
+        "id": "10",
+        "comuna": "Concepci\u00f3n"
+    }]
+},
+{
+    "ciudad": 19,
+    "comunas": [{
+        "id": "27",
+        "comuna": "Los \u00c1ngeles"
+    }]
+},
+{
+    "ciudad": 38,
+    "comunas": [{
+        "id": "53",
+        "comuna": "Talcahuano"
+    }]
+},
+{
+    "ciudad": 2,
+    "comunas": [{
+        "id": "2",
+        "comuna": "Angol"
+    }]
+},
+{
+    "ciudad": 24,
+    "comunas": [{
+        "id": "35",
+        "comuna": "Puc\u00f3n"
+    }]
+},
+{
+    "ciudad": 39,
+    "comunas": [{
+        "id": "54",
+        "comuna": "Temuco"
+    }]
+},
+{
+    "ciudad": 44,
+    "comunas": [{
+        "id": "59",
+        "comuna": "Villarrica"
+    }]
+},
+{
+    "ciudad": 1,
+    "comunas": [{
+        "id": "1",
+        "comuna": "Ancud"
+    }]
+},
+{
+    "ciudad": 6,
+    "comunas": [{
+        "id": "6",
+        "comuna": "Castro"
+    }]
+},
+{
+    "ciudad": 21,
+    "comunas": [{
+        "id": "31",
+        "comuna": "Osorno"
+    }]
+},
+{
+    "ciudad": 25,
+    "comunas": [{
+        "id": "37",
+        "comuna": "Puerto Montt"
+    }]
+},
+{
+    "ciudad": 11,
+    "comunas": [{
+        "id": "13",
+        "comuna": "Coyhaique"
+    }]
+},
+{
+    "ciudad": 26,
+    "comunas": [{
+        "id": "38",
+        "comuna": "Puerto Natales"
+    }]
+},
+{
+    "ciudad": 27,
+    "comunas": [{
+        "id": "39",
+        "comuna": "Punta Arenas"
+    }]
+},
+{
+    "ciudad": 20,
+    "comunas": [{
+        "id": "29",
+        "comuna": "Melipilla"
+    }]
+},
+{
+    "ciudad": 35,
+    "comunas": [{
+        "id": "7",
+        "comuna": "Cerrillos"
+    }, {
+        "id": "9",
+        "comuna": "Colina"
+    }, {
+        "id": "15",
+        "comuna": "Huechuraba"
+    }, {
+        "id": "18",
+        "comuna": "La Cisterna"
+    }, {
+        "id": "20",
+        "comuna": "La Florida"
+    }, {
+        "id": "22",
+        "comuna": "La Reina"
+    }, {
+        "id": "24",
+        "comuna": "Las Condes"
+    }, {
+        "id": "62",
+        "comuna": "Lo Barnechea"
+    }, {
+        "id": "28",
+        "comuna": "Maip\u00fa"
+    }, {
+        "id": "34",
+        "comuna": "Providencia"
+    }, {
+        "id": "61",
+        "comuna": "Pudahuel"
+    }, {
+        "id": "36",
+        "comuna": "Puente Alto"
+    }, {
+        "id": "40",
+        "comuna": "Quilicura"
+    }, {
+        "id": "45",
+        "comuna": "San Bernardo"
+    }, {
+        "id": "48",
+        "comuna": "San Miguel"
+    }, {
+        "id": "50",
+        "comuna": "Santiago"
+    }, {
+        "id": "30",
+        "comuna": "\u00d1u\u00f1oa"
+    },
+
+    {
+        "id": "63",
+        "comuna": "Vitacura"
+    },
+
+    {
+        "id": "64",
+        "comuna": "San Joaquin"
+    },
+]
+},
+{
+    "ciudad": 36,
+    "comunas": [{
+        "id": "51",
+        "comuna": "Talagante"
+    }]
+},
+{
+    "ciudad": 40,
+    "comunas": [{
+        "id": "55",
+        "comuna": "Valdivia"
+    }]
+},
+{
+    "ciudad": 4,
+    "comunas": [{
+        "id": "4",
+        "comuna": "Arica"
+    }]
+
+
+}
+]
